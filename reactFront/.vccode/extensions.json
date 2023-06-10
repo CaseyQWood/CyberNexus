@@ -1,8 +1,0 @@
-{
-  "recommendations": [
-    "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint"
-    // Whatever else you think would be good
-    // Eventually github copilot will be here as well once Ant buys the enterprise edition.
-  ]
-}
